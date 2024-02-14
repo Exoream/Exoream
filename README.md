@@ -29,6 +29,13 @@
   <a href="https://github.com/exoream">
       <img align="center" width="400" heigh="200" src="img/219626.gif">
   </a>
+<br><br>
+<p align="left">
+<a href="https://github.com/exoream">
+  <img height="280em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=exoream&show_icons=true&theme=algolia&include_all_commits=true&count_private=true%22"/>
+  <img height="280em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=exoream&layout=compact&layout=compact&theme=algolia"/>
+</a>
+</p>
 </div>
 
 <h1 align="center">Contact</h1>
