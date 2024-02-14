@@ -32,7 +32,6 @@
 </div>
 
 <br>
-<h1 align="center">Github Stats</h1>
 <p align="center">
 <a href="https://github.com/exoream">
   <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=exoream&show_icons=true&theme=algolia&include_all_commits=true&count_private=true%22"/>
