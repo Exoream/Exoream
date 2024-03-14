@@ -1,5 +1,5 @@
 <div align="center">
-    <a href="https://github.com/exoream"><img width = "1080" height="300" src=img/welccome1.gif.0bc02842fa30066b1d02ed401c1dddad.gif></a>
+    <a href="https://github.com/exoream"><img width = "1080" height="300" src=img/wel.gif></a>
 </div>
 <br>
 
