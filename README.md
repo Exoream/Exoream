@@ -1,5 +1,5 @@
 <div align="center">
-    <img width = "1080" height="300" src=img/welccome1.gif.0bc02842fa30066b1d02ed401c1dddad.gif>
+    <a href="https://github.com/exoream"><img width = "1080" height="300" src=img/welccome1.gif.0bc02842fa30066b1d02ed401c1dddad.gif></a>
 </div>
 <br>
 
@@ -31,9 +31,17 @@
   </a>
 </div>
 
+<br>
+<p align="center">
+<a href="https://github.com/exoream">
+  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=exoream&show_icons=true&theme=algolia&include_all_commits=true&count_private=true%22"/>
+  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=exoream&layout=compact&layout=compact&theme=algolia"/>
+</a>
+</p>
+
 <h1 align="center">Contact</h1>
 <div align="center">
-    <img src=img/tumblr_1dd695a2f774f2277005a263823de596_63755bac_540.webp align="right" width="400" height="250">
+    <a href="https://github.com/exoream"><img src=img/tumblr_1dd695a2f774f2277005a263823de596_63755bac_540.webp align="right" width="400" height="250"></a>
 </div> <br>
 
 <p>Embrace the journey, like the protagonist in an anime <br> Navigating life's plot twists with determination and a splash of humor <br> Remember, every setback is just a filler episode before the epic comeback!</p> <br>
