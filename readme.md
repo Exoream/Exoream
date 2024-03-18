@@ -4,7 +4,7 @@
 <br>
 
 <h1 align="center">About Me</h1>
-<a href="https://github.com/exoream"><img align="right" width="250" src="img/219622.gif"></a>
+<a href="https://github.com/exoream"><img align="right" width="200" src="https://media.tenor.com/cyORI7kwShQAAAAj/shigure-ui-dance.gif"></a>
 <a href="https://github.com/exoream">
     <img align="left" width="150" src="img/3.webp">
 </a>
