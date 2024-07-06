@@ -10,7 +10,7 @@
 </a>
 
 <p><strong>My name is Hilal</strong></p>
-<p>I have hobbies such as playing games, watching anime, and reading manga. Currently, I am actively playing Genshin Impact and Lethal Company. I have proficiency in Golang, Java, and C++. I am learning flutter now</p>
+<p>I have hobbies such as playing games, watching anime, and reading manga. Currently, I am actively playing Genshin Impact and Valorant. I have proficiency in Golang and Node.js. I am learning cloud computing now</p>
 <br>
 
 <div align="center">
